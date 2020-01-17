@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.eclipse.platform.feature.group' name='Eclipse Platform' version='4.14.0.v20191210-0610'>
+      <repositories size='4'>
+        <repository location='http://download.eclipse.org/eclipse/updates/4.14'/>
+        <repository location='http://download.eclipse.org/releases/2019-12'/>
+        <repository location='http://download.eclipse.org/releases/2019-12/201912181000'/>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
